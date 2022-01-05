@@ -1,0 +1,6 @@
+# ignore generated css/js
+build/*
+
+# ignore nodejs modules
+node_modules/
+package-lock.json
